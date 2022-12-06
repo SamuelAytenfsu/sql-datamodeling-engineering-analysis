@@ -1,6 +1,7 @@
 <div align="center">
-   # SQL-datamodeling-engineering-analysis
+  <h1 align="center"> SQL-datamodeling-engineering-analysis </h1> 
 </div>
+
 # Data Modeling, Data Engineering, Data Analysis
 ![Screenshot 2022-12-06 103648](https://user-images.githubusercontent.com/97622118/205960131-45fab9a7-616f-4fc1-84e3-dec609e5f378.png)
 
