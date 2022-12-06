@@ -8,8 +8,8 @@
 ## About
 This project is divided into three parts: data modeling, data engineering, and data analysis. For all this part we used Pewlett Hackard (a fictional company) file and included in "Data" folder.
 # Objective of the project
-## The main objective of this project is to do a research about people whom the company employed during the 1980s and 1990s.
-## The specific objective of the project is
+* The main objective of this project is to do a research about people whom the company employed during the 1980s and 1990s.
+* The specific objective of the project is
  * To design the tables to hold the data from the CSV files.
  * To import the CSV files into a SQL database.
  * To answer questions about the data.
@@ -20,7 +20,7 @@ In this step I inspect the CSV files, and then sketch an Entity Relationship Dia
 * Entity Relationship Diagram is included or table schemas provided for all tables 
 ## Data Engineering
 I use the provided information to create a table schema for each of the six CSV files. First I specify the data types, primary keys, foreign keys, and other constraints.For the primary keys, I verify that the column is unique. Otherwise, create a composite key, which takes two primary keys to uniquely identify a row.
-### Remeber: Be sure to create the tables in the correct order to handle the foreign keys.
+ *Remeber: Be sure to create the tables in the correct order to handle the foreign keys.*
 After that import each CSV file into its corresponding SQL table.mTo avoid errors, import the data in the same order as the corresponding tables got created. And, remember to account for the headers when doing the imports.
 
    * All required columns are defined for each table 
