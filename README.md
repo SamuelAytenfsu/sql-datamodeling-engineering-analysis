@@ -1,8 +1,8 @@
-#                                                      SQL-datamodeling-engineering-analysis
+#     style="text-align: center;"                                                 SQL-datamodeling-engineering-analysis
 
 
 # Data Modeling, Data Engineering, Data Analysis
-![Screenshot 2022-12-06 095411](https://user-images.githubusercontent.com/97622118/205945741-7b4dd3a9-b2c3-443a-901d-7c43244cf6df.png)
+![Screenshot 2022-12-06 103648](https://user-images.githubusercontent.com/97622118/205955870-778408de-38c5-46d2-9dcc-260c00a34507.png)
 ## About
 This project is divided into three parts: data modeling, data engineering, and data analysis. For all this part we used Pewlett Hackard (a fictional company) file and included in "Data" folder.
 # Objective of the project
